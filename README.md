@@ -6,7 +6,8 @@ Locometry allows you to snap custom geos or preselected nuke geo to animated geo
 
 # Installation
 
-copy the menu.py in .nuke folder or update your own menu.py
+copy everything in .nuke folder. If you already have a menu.py just copy Locometry.py and icons folder and update your own menu.py
+
 
 # Compatibility
 
