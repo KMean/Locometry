@@ -18,7 +18,7 @@ class LocoWidget(QtWidgets.QWidget):
         super(LocoWidget,self).__init__()
 
         self.setWindowFlags(QtCore.Qt.WindowStaysOnTopHint)
-        self.setWindowTitle('Locometry v2.1')
+        self.setWindowTitle('Locometry v2.3')
         self.header = QtGui.QPixmap(os.path.split(__file__)[0]+'/icons/logo.png')
         self.headerLBL = QtWidgets.QLabel()
         self.headerLBL.setPixmap(self.header)
