@@ -1,5 +1,6 @@
 # Locometry
 Snap to vertices in the Foundry Nuke
+http://www.nukepedia.com/python/3d/locometry
 
 Locometry allows you to snap custom geos or preselected nuke geo to animated geometries such as alembic by selecting 3 vertices.
 
